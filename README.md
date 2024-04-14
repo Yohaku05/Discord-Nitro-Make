@@ -9,6 +9,10 @@
 - ✈️ Proxy support: http/s, socks4/5, Premium
 - 🪶 Easy to use
 
+## Download
+⚡ Install --> [Releases]()
+
+
 ## 🎮 Getting Started
 
 Before, We start please follow these Steps: <kbd>Required*</kbd>
