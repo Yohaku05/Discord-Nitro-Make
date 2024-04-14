@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Dreamyplayer/DANG/">
-  <img src="https://discord.com/assets/b941bc1dfe379db6cc1f2acc5a612f41.png" alt="DANG" width="420"/></a><br>DANG: <br>Nitro Generator<br>
+  <img src="https://discord.com/assets/b941bc1dfe379db6cc1f2acc5a612f41.png" alt="Nitro" width="420"/></a><br>DANG: <br>Nitro Generator<br>
 </h1>
 
 ## 🌹 Features
